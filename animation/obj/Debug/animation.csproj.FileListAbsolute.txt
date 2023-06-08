@@ -1,0 +1,16 @@
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\bin\Debug\animation.exe.config
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\bin\Debug\animation.exe
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\bin\Debug\animation.pdb
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.csproj.AssemblyReference.cache
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.csproj.SuggestedBindingRedirects.cache
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\MainWindow.g.cs
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\App.g.cs
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation_MarkupCompile.cache
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation_MarkupCompile.lref
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\MainWindow.baml
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.g.resources
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.Properties.Resources.resources
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.csproj.GenerateResource.cache
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.csproj.CoreCompileInputs.cache
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.exe
+D:\основы разработки приложений с использованием windows forms и wpf\animation\animation\obj\Debug\animation.pdb
